@@ -32,7 +32,11 @@ O output deste processo é o modelo "campeão" salvo (geralmente via `joblib` ou
 
 2. Certifique-se de ter os arquivos de dados (ou modelos base) conforme estruturado nos notebooks.
 
-3. Instale o Scikit-Learn: pip install scikit-learn.
+3. Instale o Scikit-Learn:
+
+```
+pip install scikit-learn.
+```
 
 ## 📺 Demonstração
 
